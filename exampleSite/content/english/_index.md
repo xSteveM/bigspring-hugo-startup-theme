@@ -4,8 +4,8 @@ banner:
   image: images/banner-art.svg
   content: MESH<br> to get positive responses.
   button:
-    enable: false
-    label: Free consultation
+    enable: true
+    label: Free
     link: contact
 feature:
   enable: true
