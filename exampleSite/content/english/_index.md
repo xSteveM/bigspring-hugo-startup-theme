@@ -2,8 +2,7 @@
 banner:
   title: "Skyrocket your revenue <br> \uFEFF100% done-for-you"
   image: images/banner-art.svg
-  content: MESH uses AI to send effective, personalized messages to your dream clients
-    proven <br> to get positive responses.
+  content: MESH <br> to get positive responses.
   button:
     enable: false
     label: Free consultation
