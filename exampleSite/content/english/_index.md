@@ -1,8 +1,8 @@
 ---
 banner:
-  title: "Skyrocket your revenue<br> \uFEFF100% done-for-you"
+  title: "Skyrocket your revenue <br> \uFEFF100% done-for-you"
   image: images/banner-art.svg
-  content: MESH<br> to get positive responses.
+  content: MESH <br> to get positive responses.
   button:
     enable: true
     label: Free
