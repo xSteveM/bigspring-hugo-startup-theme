@@ -5,7 +5,7 @@ banner:
   content: MESH uses AI to send effective, personalized messages to your dream clients
     proven <br> to get positive responses.
   button:
-    enable: true
+    enable: false
     label: Free consultation
     link: contact
 feature:
