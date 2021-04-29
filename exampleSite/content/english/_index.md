@@ -1,13 +1,12 @@
 ---
 banner:
-  title: pog <br> development challenges
+  title: "Skyrocket your revenue <br> \uFEFF100% done-for-you"
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: MESH uses AI to send effective, personalized messages to your dream clients
+    proven <br> to get positive responses.
   button:
     enable: true
-    label: dababy
+    label: Free consultation
     link: contact
 feature:
   enable: true
